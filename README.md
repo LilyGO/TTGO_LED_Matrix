@@ -6,8 +6,8 @@
 
 ![image](https://github.com/LilyGO/UNO_LED_Matrix/blob/master/image/image2.jpg)
 
-## SDA 2
+## SDA 8
 
-## SCK 8
+## SCK 2
 
 ![image](https://github.com/LilyGO/UNO_LED_Matrix/blob/master/image/image3.jpg)
