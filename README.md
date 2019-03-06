@@ -4,7 +4,7 @@
 
 ![image](https://github.com/LilyGO/UNO_LED_Matrix/blob/master/image/image1.jpg)
 
-![image](https://github.com/LilyGO/UNO_LED_Matrix/blob/master/image/image2.jpg)
+![image](https://github.com/LilyGO/UNO_LED_Matrix/blob/master/image/image4.jpg)
 
 ## SDA 8 SCK 2
 
